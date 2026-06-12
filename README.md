@@ -4,7 +4,7 @@ A Python CLI tool that analyzes your Microsoft Edge browsing history and generat
 
 ---
 
-## 📊 Sample Output
+## git Sample Output
 
 ```
 =======================================================
@@ -30,7 +30,7 @@ A Python CLI tool that analyzes your Microsoft Edge browsing history and generat
 =======================================================
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 **Requirements:** Python 3.x (no external libraries needed)
 
