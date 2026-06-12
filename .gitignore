@@ -1,0 +1,8 @@
+# Exploration scripts
+explorer.py
+explorer2(urltabel_data).py
+finding_historyfile.py
+
+# Database copy (personal data)
+history_copy.db
+*.db
