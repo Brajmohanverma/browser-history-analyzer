@@ -49,7 +49,7 @@ python analyzer.py
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 1. Locates Edge's `History` file (SQLite database)
 2. Creates a temporary copy to avoid file lock issues
