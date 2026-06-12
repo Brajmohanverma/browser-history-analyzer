@@ -1,0 +1,3 @@
+# No external libraries needed
+# All modules are part of Python standard library
+# os, sqlite3, shutil, datetime, urllib.parse
