@@ -60,7 +60,7 @@ python analyzer.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 browser-history-analyzer/
 
 ├── analyzer.py        # Main script
